@@ -10,6 +10,7 @@ export default function SearchBox({ updateWeather }) {
   const URL = "https://api.openweathermap.org/data/2.5/weather";
   const API_KEY = process.env.VITE_MY_API_KEY;
   console.log(API_KEY)
+  console.log("Helloe")
 
   let coordinates = async () => {
     try {
