@@ -1,0 +1,19 @@
+.card {
+  border: 1px solid #ffffff;
+  display: inline-block;
+  border-radius: 15px;
+  color: #ffffff;
+  padding: 20px 30px;
+  font-size: larger;
+  font-weight: bolder;
+}
+.WeatherApp {
+  padding: 0;
+  margin: 0;
+  height: 110vh;
+  /* background-image: url("https://imgs.search.brave.com/BFrQcnpv4V4_rhIhOA_xapAFJMrvB7081bauKww77WM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudW5zcGxhc2gu/Y29tL3Bob3RvLTE1/NjE0NzEwMjYtMGJi/Yjc3NTM1ZDI1P2Zt/PWpwZyZxPTYwJnc9/MzAwMCZpeGxpYj1y/Yi00LjAuMyZpeGlk/PU0zd3hNakEzZkRC/OE1IeHpaV0Z5WTJo/OE9IeDhkMlZoZEdo/bGNueGxibnd3Zkh3/d2ZIeDhNQT09"); */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  font: 80px;
+}
